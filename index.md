@@ -8,7 +8,7 @@
 ---
 
 ## **PROFILE**  
-Strategic and customer-focused Product Manager with a track record of successfully leading the end-to-end development of global software and embedded systems products. Certified SAFe Agilist and CSPO, bringing a deep technical understanding and strong business acumen to create innovative solutions that drive growth and customer satisfaction. Proven ability to define product roadmaps, foster cross-functional collaboration, and manage complex stakeholder relationships. Adept at applying Agile and SAFe methodologies to ensure product delivery aligns with customer needs and organizational objectives.
+Strategic and customer-focused Product Thinker with a track record of successfully leading the end-to-end development of global software and embedded systems products. Certified SAFe Agilist and CSPO, bringing a deep technical understanding and strong business acumen to create innovative solutions that drive growth and customer satisfaction. Proven ability to define product roadmaps, foster cross-functional collaboration, and manage complex stakeholder relationships. Adept at applying Agile and SAFe methodologies to ensure product delivery aligns with customer needs and organizational objectives.
 
 ---
 
@@ -39,14 +39,14 @@ Strategic and customer-focused Product Manager with a track record of successful
 
 ---
 
-### **Senior Software Developer | Volvo Cars**  
+### **Senior Software Developer / Function Lead | Volvo Cars**  
 **Gothenburg, Sweden | May 2021 – Oct 2023**  
 - Vehicle Data and Diagnostics: Delivered a cloud-based platform enabling advanced analytics and predictive maintenance across global vehicle operations.  
 - Autonomous Driving Platform Software: Led middleware development to enable real-time data processing from autonomous driving sensors, bridging hardware and AI models for decision-making.  
 
 ---
 
-### **Software Development Consultant | Siri AB**  
+### **Consultant Software Developer | Siri AB**  
 **Gothenburg, Sweden | Feb 2020 – May 2021**  
 - Designed and maintained Apcera, a cloud infrastructure product enabling IoT for connected vehicles, providing deployment and governance solutions for global OEMs.  
 
