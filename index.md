@@ -2,7 +2,7 @@
 ---
 
 # **KIRAN DEVAPPA**  
-**Product Manager | Certified SAFe 6 Agilist | CSPO**  
+**Product Thinker | Certified SAFe 6 Agilist | CSPO**  
 📞 **Mobile:** +46-739868516 | 📧 **Email:** kiran.kdmukh@gmail.com  
 
 ---
