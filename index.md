@@ -61,8 +61,8 @@ Strategic and customer-focused Product Manager with a track record of successful
 ---
 
 ## **EDUCATION**  
-- **Master of Science** | Manipal University, India  
-- **Bachelor of Engineering** | Visvesvaraya Technological University, India  
+- **Master of Science**  Manipal University, India  
+- **Bachelor of Engineering**  Visvesvaraya Technological University, India  
 
 ---
 
