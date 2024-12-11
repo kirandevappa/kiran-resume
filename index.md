@@ -13,10 +13,9 @@ Strategic and customer-focused Product Thinker with a track record of successful
 ---
 
 ## **CORE COMPETENCIES**  
-- Strategic Product Roadmapping & Execution   
-- Stakeholder Engagement & Cross-Functional Collaboration   
+- Strategic Product Roadmapping & Execution    
 - Agile Methodologies (SAFe, Scrum)  
-- Customer Journey Optimization & Experience Design.
+- Customer Journey Optimization, Usability testing & Experience Design.
 - Customer-Centric Product Design  
 - Market Research & Competitive Analysis  
 - Data-Driven Insights & Business Impact Assessment  
