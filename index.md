@@ -68,7 +68,7 @@ Strategic and customer-focused Product Thinker with a track record of successful
 ## **CERTIFICATIONS**  
 - Certified SAFe 6.0 Agilist  
 - Certified Scrum Product Owner (CSPO)  
-- Customer Experience Mindset (CX Playbook, Scania)  
+- Customer Experience Mindset  
 ---
 
 ## **OTHER DETAILS**  
