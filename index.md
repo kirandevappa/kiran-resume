@@ -38,7 +38,7 @@ Strategic and customer-focused Product Thinker with a track record of successful
 
 ---
 
-### **Senior Software Developer / Function Lead | Volvo Cars**  
+### **Senior Software Developer | Volvo Cars**  
 **Gothenburg, Sweden | May 2021 – Oct 2023**  
 - Vehicle Data and Diagnostics: Delivered a cloud-based platform enabling advanced analytics and predictive maintenance across global vehicle operations.  
 - Autonomous Driving Platform Software: Led middleware development to enable real-time data processing from autonomous driving sensors, bridging hardware and AI models for decision-making.  
