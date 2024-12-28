@@ -3,7 +3,7 @@
 
 # **KIRAN DEVAPPA**  
 **Product Thinker | Certified SAFe 6 Agilist | CSPO**  
-📞 **Mobile:** +46-739868516 | 📧 **Email:** kiran.kdmukh@gmail.com  
+📞 **Mobile:** +46-739868516 | 📧 **Email:** kiran.kdmukh@gmail.com | **Portfolio:** [View resume on github pages](https://kirandevappa.github.io/kiran-resume/)
 
 ---
 
