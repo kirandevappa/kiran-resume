@@ -28,8 +28,18 @@ Strategic and customer-focused Product Thinker with a track record of successful
 
 ## **PROFESSIONAL EXPERIENCE**  
 
+### **Digital Product Manager | Volvo Group**
+**Götebörg, Sweden | June 2025 - Present**
+**Project: Vehicle Software Factory**
+- Define and execute product strategy and vision for digital platforms, aligning with business goals and needs.
+- Lead end-to-end product lifecycle: from discovery, ideation, roadmap planning, and development to launch and optimization.
+- Collaborated cross-functionally with engineering, design, marketing, data, and business stakeholders to deliver scalable, user-friendly digital solutions.
+- Manage stakeholder expectations through clear communication, regular updates, and aligning priorities across teams.
+
+---
+
 ### **Product Owner | Scania CV**  
-**Södertälje, Sweden | Oct 2023 – Present**  
+**Södertälje, Sweden | Oct 2023 – June 2025**  
 **Project: Driver Management**  
 - Spearheaded the development of Driver Evaluation, a flagship service aiding global markets to enhance driver performance, vehicle efficiency, and sustainability.  
 - Managed the product backlog and defined the roadmap, aligning with organizational goals and customer feedback.  
@@ -77,3 +87,4 @@ Strategic and customer-focused Product Thinker with a track record of successful
 - **Languages:** Fluent in English (*and tech-speak*)  
 
 ---
+
