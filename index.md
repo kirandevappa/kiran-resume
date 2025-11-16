@@ -33,7 +33,7 @@ Strategic and customer-focused Product Thinker with a track record of successful
 **Project: Vehicle Software Factory**
 - Define and execute product strategy and vision for digital platforms, aligning with business goals and needs.
 - Lead end-to-end product lifecycle: from discovery, ideation, roadmap planning, and development to launch and optimization.
-- Collaborated cross-functionally with engineering, design, marketing, data, and business stakeholders to deliver scalable, user-friendly digital solutions.
+- Collaborate cross-functionally with engineering, design, marketing, data, and business stakeholders to deliver scalable, user-friendly digital solutions.
 - Manage stakeholder expectations through clear communication, regular updates, and aligning priorities across teams.
 
 ---
@@ -44,7 +44,7 @@ Strategic and customer-focused Product Thinker with a track record of successful
 - Spearheaded the development of Driver Evaluation, a flagship service aiding global markets to enhance driver performance, vehicle efficiency, and sustainability.  
 - Managed the product backlog and defined the roadmap, aligning with organizational goals and customer feedback.  
 - Conducted stakeholder workshops to gather and refine requirements, ensuring alignment across global markets. 
-- Collaborated with cross-functional teams, including technical developers and external partners, to ensure seamless product delivery.  
+- Collaborated with cross-functional teams, including technical developers, UI/UX developers, Journey Leads and external partners,  to ensure seamless product delivery.  
 
 ---
 
@@ -55,7 +55,7 @@ Strategic and customer-focused Product Thinker with a track record of successful
 
 ---
 
-### **Consultant Software Developer | Siri AB**  
+### **Consultant Software Developer | Siri AB | Ericsson **  
 **Gothenburg, Sweden | Feb 2020 – May 2021**  
 - Designed and maintained Apcera, a cloud infrastructure product enabling IoT for connected vehicles, providing deployment and governance solutions for global OEMs.  
 
@@ -87,4 +87,5 @@ Strategic and customer-focused Product Thinker with a track record of successful
 - **Languages:** Fluent in English (*and tech-speak*)  
 
 ---
+
 
