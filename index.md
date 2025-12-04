@@ -15,12 +15,11 @@ Strategic and customer-focused Product Thinker with a track record of successful
 - Strategic Product Roadmapping & Execution    
 - Agile Methodologies (SAFe, Scrum)  
 - Customer Journey Optimization, Usability testing & Experience Design.
-- Customer-Centric Product Design  
-- Market Research & Competitive Analysis  
+- Customer-Centric Product Design, Market Research & Competitive Analysis   
 - Data-Driven Insights & Business Impact Assessment  
 - Requirements Gathering & Prioritization     
 
-**Tools & Platforms:** Jira, Confluence, Miro, Mural, MS Office   
+**Tools & Platforms:** Jira, Confluence, Miro, Mural, MS Office Suite   
 **Technical Proficiencies:** Embedded Systems, Microservices Architecture, Multithreading, GoLang, C/C++, Python  
 
 ---
@@ -30,7 +29,8 @@ Strategic and customer-focused Product Thinker with a track record of successful
 ### **Digital Product Manager | Volvo Group**
 **Götebörg, Sweden | June 2025 - Present**
 **Project: Vehicle Software Factory**
-- Define and execute product strategy and vision for digital platforms, aligning with business goals and needs.
+- Working with a portfolio of next-gen platforms and applications that cater to the needs of the future, spanning across trucks, buses and construction equipments, both for R&D and Aftermarket setup.
+- Define and execute product strategy and vision for digital platforms, products and services, aligning with business goals and needs.
 - Lead end-to-end product lifecycle: from discovery, ideation, roadmap planning, and development to launch and optimization.
 - Collaborate cross-functionally with engineering, design, marketing, data, and business stakeholders to deliver scalable, user-friendly digital solutions.
 - Manage stakeholder expectations through clear communication, regular updates, and aligning priorities across teams.
@@ -86,6 +86,7 @@ Strategic and customer-focused Product Thinker with a track record of successful
 - **Languages:** Fluent in English (*and tech-speak*)  
 
 ---
+
 
 
 
