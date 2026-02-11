@@ -1,7 +1,7 @@
 
 ---
  
-## **Digital Product Manager, Volvo Group | MS in Software Development | Certified SAFe 6 Agilist | CSPM/PO**  
+## **Digital Product Manager @ Volvo Group | MS in Software Development | Certified SAFe 6 Agilist | CSPM/PO**  
 📞 **Mobile:** +46-739868516 | 📧 **Email:** kiran.kdmukh@gmail.com | **Portfolio:** [View resume on github pages](https://kirandevappa.github.io/kiran-resume/)
 
 ---
@@ -30,6 +30,9 @@ Strategic and customer-focused Product Thinker with a track record of successful
 **Götebörg, Sweden | June 2025 - Present**
 **Project: Vehicle Software Factory**
 - Working with a portfolio of next-gen platforms and applications that cater to the needs of the future, spanning across trucks, buses and construction equipments, both for R&D and Aftermarket setup.
+- Tailored attention to atleast 13 medium to large size applications within the subportfolio I am responsible for, managing budgets, roadmaps and deliveries to have the most efficient use of resources with maximum ROI.
+- Managed requirements, deliveries to an extremely complicated and massive platform overhaul that directly contributes to the present and future of company.
+- Catered to multicultural, dynamic teams that are intertwined in a matrix of dependencies and deliverables, untangling and bringing clarity for an efficient value flow. 
 - Define and execute product strategy and vision for digital platforms, products and services, aligning with business goals and needs.
 - Lead end-to-end product lifecycle: from discovery, ideation, roadmap planning, and development to launch and optimization.
 - Collaborate cross-functionally with engineering, design, marketing, data, and business stakeholders to deliver scalable, user-friendly digital solutions.
@@ -86,6 +89,7 @@ Strategic and customer-focused Product Thinker with a track record of successful
 - **Languages:** Fluent in English (*and tech-speak*)  
 
 ---
+
 
 
 
